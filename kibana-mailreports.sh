@@ -1,6 +1,9 @@
 #!/bin/bash
 #
-# phantom.js
+# Kibana Mailreports
+# by André Bauer
+# https://github.com/monotek/kibana-mailreports
+# LICENSE: https://raw.githubusercontent.com/monotek/kibana-mailreports/master/LICENSE
 #
 
 PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin
